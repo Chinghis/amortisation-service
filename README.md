@@ -1,3 +1,5 @@
+Run 'AmortisationServiceApplication' to start the service (May have to change port in application.properties if 8102 is already in use)
+
 Running the project should automatically set up the amortisation.db file
 Use this amortisation.db as a data source from file in SQLite 
 
