@@ -6,3 +6,4 @@ If I had more time to do this I would:
 4.Use more appropriate variable names
 5. Fix the ID sequencers on the loan_details + schedule tables to stop the ID's going ridiculously high
 6. Input validation on schedule creation request
+7. More concise testing, checking correct values are being passed etc
